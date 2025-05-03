@@ -2,5 +2,5 @@
 title: "Projects"
 ---
 {{< lead >}}
-Personal projects that I undertake. 
+Here you'll find posts about all of the personal projects I undertake. 
 {{< /lead >}}
