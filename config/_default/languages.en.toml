@@ -1,0 +1,23 @@
+languageCode = "en"
+languageName = "English"
+weight = 1
+title = "Miles Handelman"
+
+[params]
+  displayName = "EN"
+  isoCode = "en"
+  rtl = false
+  dateFormat = "2 January 2006"
+#  logo = "img/blowfish_logo_transparent.png"
+#  description = "A powerful, lightweight theme for Hugo."
+
+[params.author]
+  name = "Miles Handelman"
+  email = "mileshandelman@gmail.com"
+  image = "img/me.jpg"
+  headline = "Cybersecurity Student"
+  # bio = "A powerful, lightweight theme for Hugo."
+  links = [
+    { linkedin = "https://www.linkedin.com/in/mileshandelman/" },
+    { github = "https://github.com/mileshandelman" },
+  ]

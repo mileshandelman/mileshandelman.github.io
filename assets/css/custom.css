@@ -1,0 +1,53 @@
+.flex-col {
+
+    max-width: 90%;
+    
+    margin: 0 auto;
+    
+    }
+    
+    .article-content {
+    
+    max-width: 100%;
+    
+    margin: 0 auto;
+    
+    }
+    
+    .medium-zoom-image {
+    
+    max-width: 100%;
+    
+    height: auto;
+    
+    }
+    
+    .relative {
+    
+    max-width: 90%;
+    
+    margin: 0 auto;
+    
+    }
+    
+    .container {
+    
+    max-width: none;
+    
+    width: 100%;
+    
+    }
+    /* make all page‑scoped headings flush with the content container */
+.article-content h2,
+.article-content h3,
+.article-content h4,
+.article-content h5 {
+  margin-left: 0 !important;
+  padding-left: 0 !important;
+}
+
+/* if Blowfish’s “anchor link” icon is still pushing things over, reset its offset */
+.header-anchor {
+  left: 0 !important;
+}
+
