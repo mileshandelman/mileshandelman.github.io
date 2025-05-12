@@ -2,7 +2,7 @@
 title: "About Me"
 date: 2025-05-01T00:00:00-04:00
 --- 
-Hi! I'm Miles, a fourth-year Cybersecurity Analytics and Operations student from the Pennsylvania State University and aspiring cybersecurity professional. On this site, you can expect to find content related to my CTF writeups, personal projects, and a blog where I'll talk about general cybersecurity topics or some of my other hobbies. 
+Hi! I'm Miles, I have a B.S. in Cybersecurity Analytics and Operations from the Pennsylvania State University and am an aspiring cybersecurity professional. On this site, you can expect to find content related to my CTF writeups, personal projects, and a blog where I'll talk about general cybersecurity topics or some of my other hobbies. 
 
 ## Experience
 - Information Security Intern @ Erie Insurance 
