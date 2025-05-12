@@ -23,6 +23,7 @@ Hi! I'm Miles, I have a B.S. in Cybersecurity Analytics and Operations from the 
 
 ## Certifications
 - CompTIA Security+ (Achieved 07/2024)
+- NSA NCAE-CD (Achieved 05/2025)
 - AWS Cloud Practitioner (Currently Studying)
 
 ## Skills Master List
